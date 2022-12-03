@@ -1,0 +1,10 @@
+C:\OOP\Labs\MackayLab8\MackayLab8\MackayLab8\bin\Debug\MackayLab8.exe.config
+C:\OOP\Labs\MackayLab8\MackayLab8\MackayLab8\bin\Debug\MackayLab8.exe
+C:\OOP\Labs\MackayLab8\MackayLab8\MackayLab8\bin\Debug\MackayLab8.pdb
+C:\OOP\Labs\MackayLab8\MackayLab8\MackayLab8\obj\Debug\MackayLab8.csproj.AssemblyReference.cache
+C:\OOP\Labs\MackayLab8\MackayLab8\MackayLab8\obj\Debug\MackayLab8.Form1.resources
+C:\OOP\Labs\MackayLab8\MackayLab8\MackayLab8\obj\Debug\MackayLab8.Properties.Resources.resources
+C:\OOP\Labs\MackayLab8\MackayLab8\MackayLab8\obj\Debug\MackayLab8.csproj.GenerateResource.cache
+C:\OOP\Labs\MackayLab8\MackayLab8\MackayLab8\obj\Debug\MackayLab8.csproj.CoreCompileInputs.cache
+C:\OOP\Labs\MackayLab8\MackayLab8\MackayLab8\obj\Debug\MackayLab8.exe
+C:\OOP\Labs\MackayLab8\MackayLab8\MackayLab8\obj\Debug\MackayLab8.pdb
